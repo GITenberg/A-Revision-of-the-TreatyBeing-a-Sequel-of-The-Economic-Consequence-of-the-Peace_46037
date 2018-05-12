@@ -1,0 +1,33 @@
+_repo: A-Revision-of-the-TreatyBeing-a-Sequel-of-The-Economic-Consequence-of-the-Peace_46037
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46037-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Keynes, John Maynard
+    aliases:
+    - Keynes, J. M. (John Maynard)
+    - Keynes, John Maynard Keynes, Baron
+    birthdate: 1883
+    deathdate: 1946
+    gutenberg_agent_id: '6280'
+    url: http://www.gutenberg.org/2009/agents/6280
+    wikipedia: http://en.wikipedia.org/wiki/John_Maynard_Keynes
+description: ''
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46037'
+  lccn: '22002755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treaty of Versailles (1919 June 28)'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Reparations'
+title: "A Revision of the Treaty\r\nBeing a Sequel to The Economic Consequence of\
+  \ the Peace"
+url: http://www.gutenberg.org/ebooks/46037
